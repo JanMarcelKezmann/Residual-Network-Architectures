@@ -12,4 +12,4 @@
 
 - ResNet 34
 - Inception V3
-- Inceptino ResNet V2
+- Inception ResNet V2
