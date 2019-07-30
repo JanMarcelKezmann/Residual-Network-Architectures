@@ -5,8 +5,8 @@
 
 ## Residual Networks
 
-- <strong> ResNet 101</strong>
-- <strong> Inception V3</strong>
+- <a href="https://github.com/JanMarcelKezmann/Residual-Network-Architectures/tree/master/ResNet%20101" strong> ResNet 101</strong>
+- <a href="https://github.com/JanMarcelKezmann/Residual-Network-Architectures/tree/master/Inception%20V3" strong> Inception V3</strong>
 
 
 ### Following Networks
