@@ -16,5 +16,5 @@
 
 ## Want to get to the Arxiv Research Paper? Click below:
 
-- <a href="https://arxiv.org/pdf/1512.03385.pdf" target="_blank">Residual Network 101</a>
+- <a href="https://arxiv.org/pdf/1512.03385.pdf" rel="noopener noreferrer" target="_blank">Residual Network 101</a>
 - <a href="https://arxiv.org/pdf/1512.00567.pdf">Inception V3</a>
