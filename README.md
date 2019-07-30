@@ -5,11 +5,11 @@
 
 ## Residual Networks
 
-- ResNet 101
+- <strong> ResNet 101</strong>
+- <strong> Inception V3</strong>
 
 
 ### Following Networks
 
 - ResNet 34
-- Inception V3
 - Inception ResNet V2
