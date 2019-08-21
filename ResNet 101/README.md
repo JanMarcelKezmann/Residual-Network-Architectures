@@ -1,6 +1,6 @@
-# Inception V3
+# Residual Network 101
 
-This is an implementation of the Inception V3 network invented by Kaiming He, Xiangyu Zhang, Shaoqing Ren and Jian Sun.
+This is an implementation of the Residual Network 101 invented by Kaiming He, Xiangyu Zhang, Shaoqing Ren and Jian Sun.
 Your can read about it on the Arix Research Paper <i><strong>Deep Residual Learning for Image Recognition</strong></i>.
 
 Link to Arxiv: https://arxiv.org/pdf/1512.03385.pdf
