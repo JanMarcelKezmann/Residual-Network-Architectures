@@ -7,7 +7,7 @@
 
 - <a href="https://github.com/JanMarcelKezmann/Residual-Network-Architectures/tree/master/ResNet%20101" strong> ResNet 101</strong>
 - <a href="https://github.com/JanMarcelKezmann/Residual-Network-Architectures/tree/master/Inception%20V3" strong> Inception V3</strong>
-- <a href="https://github.com/JanMarcelKezmann/Resiudal-Network-Architectures/tree/master/Inception%20ResNet%20V2" strong> Inception ResNet V2</strong>
+- <a href="https://github.com/JanMarcelKezmann/Residual-Network-Architectures/tree/master/Inception%20ResNet%20V2" strong> Inception ResNet V2</strong>
 
 ### Following Networks
 
